@@ -1,4 +1,4 @@
-Android開源項目分類彙總
+﻿Android開源項目分類彙總
 ====================
 
 歡迎大家推薦好的Android開源項目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki)或在 [收集&提交頁](https://github.com/Trinea/android-open-project/issues/1) 中告訴我，歡迎`Star`、`Fork` :)  
